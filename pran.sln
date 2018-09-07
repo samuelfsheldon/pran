@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pran", "pran\pran.csproj", "{C90B8AC1-8EEE-4B2E-B819-564AC012C92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90B8AC1-8EEE-4B2E-B819-564AC012C92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90B8AC1-8EEE-4B2E-B819-564AC012C92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90B8AC1-8EEE-4B2E-B819-564AC012C92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90B8AC1-8EEE-4B2E-B819-564AC012C92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A0D6BA-4301-4D5E-A0A7-F0B5B724FBC3}
+	EndGlobalSection
+EndGlobal
